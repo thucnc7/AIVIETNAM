@@ -1,0 +1,7 @@
+Browser maker Opera launched its AI-centric browser Neon Tuesday, with the ability to create apps through AI prompts and create repeatable prompts through a feature it calls cards. With this Opera joins a growing number of companies like Perplexity and The Browser Company that are trying to make agentic browsers happen.
+
+The company first announced that it was working on Neon in May, but the browser was in closed preview. It will now start sending invites to select people, who can use the browser for a fee of $19.99 per month.
+
+“We built Opera Neon for ourselves – and for everyone who uses AI extensively in their day-to-day. Today, we’re welcoming the first users who will help shape the future of agentic browsing with us,” said Krystian Kolondra, EVP Browsers at Opera, in a statement.
+
+There are a few key parts of the browser. First, there is a plain old chatbot that you can converse with to get answers to your questions. The more agentic feature of the browser is called Neon Do, which will help you get tasks done. For instance, it can summarize a Substack blog and post the summary to a Slack channel. As the browser has the context of your browsing history, you can also ask it to fetch details from a YouTube video you watched last week or the post that you read yesterday.
