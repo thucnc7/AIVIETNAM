@@ -14,7 +14,7 @@ def excercise1(tp , fp , fn):
     Recall = tp/(tp + fn)
     F1_score = 2 * Precision * Recall / (Precision + Recall)
 
-    return Precision,Recall,F1_score
+    return F1_score
 def is_number(x):
     try:
         float(x)
@@ -37,6 +37,5 @@ def activeFuntion(x , st):
             a = 0.01
             return a*(math.exp(x) -1 ) if x <= 0 else x
         
-
-print(excercise1(1 , 2 ,5))
-print(activeFuntion(1.5,"sbigmoid"))
+print(activeFuntion(2,"sigmoid"))
+print(round(excercise1(2 , 4 ,5),2))
